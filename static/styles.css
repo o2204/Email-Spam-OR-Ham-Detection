@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #2c3e50, #4ca1af);
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    color: #fff;
+}
+
+.container {
+    width: 80%;
+    max-width: 700px;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    margin-bottom: 30px;
+    color: #e0e0e0;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    resize: none;
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+button {
+    padding: 12px 30px;
+    background-color: #00b894;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #019875;
+}
+
+.result {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.result.spam {
+    color: #ff5252;
+}
+
+.result.not-spam {
+    color: #4cd137;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.back-btn {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0984e3;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    color: #ccc;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 15px 0;
+    background: none; /* Remove any box background */
+    backdrop-filter: none;
+    box-shadow: none;
+}
+
+.contact {
+    margin-bottom: 10px;
+}
+
+.contact a {
+    margin: 0 12px;
+    color: #aaa;
+    font-size: 20px;
+    transition: color 0.3s ease, transform 0.3s ease;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: #1da1f2; /* optional hover color */
+    transform: scale(1.2);
+}
+
+.footer-description {
+    margin-top: 5px;
+    color: #777;
+}
