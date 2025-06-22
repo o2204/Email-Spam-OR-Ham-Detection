@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 ## Links
 
-- - **LinkedIn:** [Click here](https://www.linkedin.com/in/o2204)
+- - **LinkedIn:** [https://www.linkedin.com/in/o2204]
 - - **Kaggle:** [https://www.kaggle.com/code/omaratef200/email-spam-or-ham-detection]
 
 ---
