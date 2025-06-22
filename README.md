@@ -45,14 +45,12 @@ The goal of this project is to build and deploy a machine learning model that ca
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
-
----
-
+pip install -r requirements.txt         
+```
 ## Links
 
-- - **LinkedIn:** [Click here to watch](https://www.linkedin.com/posts/o2204_%D9%83%D9%84%D9%86%D8%A7-%D8%AA%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D9%86%D8%A7-%D9%85%D8%B9-fashion-mnist-%D9%81%D9%8A-activity-7331788007861018624-6NtH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3InlYBg47QtQUB-CFNvF5Qq3TB0NZRmZI)
-- - **Kaggle:** [https://www.kaggle.com/code/omaratef200/fashion-mnist]
+- - **LinkedIn:** [Click here](https://www.linkedin.com/in/o2204)
+- - **Kaggle:** [https://www.kaggle.com/code/omaratef200/email-spam-or-ham-detection]
 
 ---
 
