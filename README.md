@@ -1,10 +1,10 @@
-# 📧 Email Spam or Ham Detection
+# Email Spam or Ham Detection
 
 This project demonstrates how to classify emails as **Spam** or **Ham (Not Spam)** using machine learning techniques in Python.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to build and deploy a machine learning model that can detect whether an email is spam or not, based on its content. The solution includes:
 
@@ -16,7 +16,7 @@ The goal of this project is to build and deploy a machine learning model that ca
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 🔹 Data Cleaning
 - Remove URLs, punctuation, special characters  
@@ -40,7 +40,7 @@ The goal of this project is to build and deploy a machine learning model that ca
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies using:
 
